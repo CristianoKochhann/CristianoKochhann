@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Cristiano Luis Kochhann!
 
-<!--
-**CristianoKochhann/CristianoKochhann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre Mim
+Sou **Programador Web PHP** com foco em desenvolvimento de aplicações utilizando a tecnologia **Laravel**.  
+Atuo como Desenvolvedor Full Cycle, participando das etapas de criação e manutenção de sistemas
 
-Here are some ideas to get you started:
+Atualmente trabalho na empresa [Elev Tecnologia](https://elev.tec.br/), onde participo de projetos desafiadores e de grande impacto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou em constante evolução, estudando novas tecnologias como **React**, para oferecer soluções cada vez mais completas e modernas.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+- **Linguagens:** PHP, JavaScript, TypeScript
+- **Frameworks:** Laravel, Yii2, React, Playwright
+- **Front-end:** HTML5, CSS3, Tailwind CSS, jQuery
+- **Banco de Dados:** PostgreSQL, MySQL
+
+---
+
+## 🎯 Atualmente focado em
+- Desenvolvimento de aplicações web modernas com **Laravel** e **React**
+- Aprimoramento contínuo em **automação de testes** com **Playwright**
+- Boas práticas de **Clean Code**, **Arquitetura de Software** e **Testes**
+
+---
+
+## 📈 Projetos em Destaque
+(Em breve: Portfólio sendo atualizado 🚀)
+
+---
+
+## 📫 Como me encontrar
+- [LinkedIn - Cristiano Kochhann](https://www.linkedin.com/in/cristiano-luis-kochhann-2797b880/?originalSubdomain=br)
+
+---
+
+> "Se tá tudo ruim, a gente deleta sem WHERE e recomeça do zero!" 😎
+
