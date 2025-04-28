@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Cristiano Luis Kochhann!
+# 👋 Olá, eu sou Cristiano Luis Kochhann!
 
 ## 👨‍💻 Sobre Mim
 Sou **Programador Web PHP** com foco em desenvolvimento de aplicações utilizando a tecnologia **Laravel**.  
