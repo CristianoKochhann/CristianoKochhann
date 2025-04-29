@@ -25,8 +25,15 @@ Estou em constante evolução, estudando novas tecnologias como **React**, para 
 
 ---
 
-## 📈 Projetos em Destaque
-(Em breve: Portfólio sendo atualizado 🚀)
+## 📚 Formação e Cursos
+React: Desenvolvendo com JavaScript (Alura)
+➔ Aprendi sobre o comportamento do React em relação ao JavaScript, CSS e a construção de componentes reutilizáveis.
+➔ Projeto desenvolvido: Alura Organo (publicado na Vercel)
+
+---
+
+## 🚀 Projetos
+Alura Organo - Sistema de organização de times
 
 ---
 
