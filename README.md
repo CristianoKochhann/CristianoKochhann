@@ -33,8 +33,8 @@ React: Desenvolvendo com JavaScript (Alura)
 ---
 
 ## 🚀 Projetos
-Alura Organo - Sistema de organização de times
 - [Alura Organo - Sistema de organização de times](https://alura-organo-eosin.vercel.app/)
+
 ---
 
 ## 📫 Como me encontrar
